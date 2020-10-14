@@ -1,0 +1,60 @@
+a{
+  display: flex;
+  flex-direction: column;
+  line-height: 24px;
+  background: linear-gradient(to right, black, black 50%,#5F5F5F 50%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 100%;
+  background-position: 100%;
+  transition: background-position 0.9s ease;}
+
+
+a:Hover{
+  background-position: 0 100%;
+}
+
+body {
+  background: #FFFCBD;
+  position: relative;
+  display: flex;
+  font: 600 18px Barlow Condense, sans-serif;
+}
+
+#page-map aside{
+  background: #FFFCBD;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#page-map aside h2{
+  color: Black;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 42px;
+  margin-top: 64px;
+}
+#page-map .wellcome{
+  color: Black;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 42px;
+  margin-top: 55px;
+}
+#page-map aside footer{
+  display: flex;
+  flex-direction: column;
+  margin-top: 250px;
+  line-height: 24px;
+}
+#page-map aside footer strong{
+  font-weight: 800;
+}
+
+.opai{
+ height: 350px;
+ border-radius: 100%;
+
+}
