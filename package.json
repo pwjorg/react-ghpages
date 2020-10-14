@@ -20,6 +20,7 @@
     "react-scripts": "3.4.3",
     "typescript": "^3.7.5"
   },
+  "homepage": "https://peterjuma.github.io/react-ghpages",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
