@@ -1,1 +1,1 @@
-## GitHub Security
+## GitHub Advanced Security
